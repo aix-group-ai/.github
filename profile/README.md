@@ -1,15 +1,9 @@
 <div align="center">
 
-<!-- ENTERPRISE HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=99999&color=00FFCC&center=true&vCenter=true&repeat=false&width=900&height=20&lines=%E2%97%BC+SYSTEM+ONLINE+%C2%B7+AI_CORE+v4.2+%C2%B7+QUANTUM_READY+%C2%B7+STATUS%3A+OPERATIONAL" alt="Status Bar"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=80&lines=AIX+GROUP" alt="AIX Group"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=1&pause=99999&color=00FFCC&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Enterprise+AI+Solutions+%26+Consulting" alt="Tagline"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=1&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=900&height=25&lines=Transforming+enterprises+with+production-grade+AI+%C2%B7+20%2B+years+of+engineering+excellence" alt="Description"/>
+<!-- ENTERPRISE HEADER BANNER — animated wave -->
+<a href="https://www.aix-group.ai" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00FFCC&height=200&section=header&text=AIX%20GROUP&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20AI%20Solutions%20%26%20Consulting&descAlignY=58&descSize=18&descColor=00FFCC&animation=fadeIn" width="100%" alt="AIX Group Banner"/>
+</a>
 
 <br/>
 
