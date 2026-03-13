@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ENTERPRISE HEADER BANNER — animated wave -->
+<!-- ENTERPRISE HEADER BANNER — self-hosted animated SVG -->
 <a href="https://www.aix-group.ai" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00FFCC&height=200&section=header&text=AIX%20GROUP&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20AI%20Solutions%20%26%20Consulting&descAlignY=58&descSize=18&descColor=00FFCC&animation=fadeIn" width="100%" alt="AIX Group Banner"/>
+  <img src="https://raw.githubusercontent.com/aix-group-ai/.github/main/profile/banner.svg" width="100%" alt="AIX Group Banner"/>
 </a>
 
 <br/>
