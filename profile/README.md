@@ -1,42 +1,54 @@
 <div align="center">
 
-<!-- ENTERPRISE HEADER BANNER -->
-<a href="https://www.aix-group.ai" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00FFCC&height=200&section=header&text=AIX%20GROUP&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20AI%20Solutions%20%26%20Consulting&descAlignY=58&descSize=18&descColor=00FFCC&animation=fadeIn" width="100%" alt="AIX Group Banner"/>
-</a>
+<!-- ENTERPRISE HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1&pause=99999&color=00FFCC&center=true&vCenter=true&repeat=false&width=900&height=20&lines=%E2%97%BC+SYSTEM+ONLINE+%C2%B7+AI_CORE+v4.2+%C2%B7+QUANTUM_READY+%C2%B7+STATUS%3A+OPERATIONAL" alt="Status Bar"/>
 
-<!-- STATUS BADGES -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=80&lines=AIX+GROUP" alt="AIX Group"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=1&pause=99999&color=00FFCC&center=true&vCenter=true&repeat=false&width=900&height=30&lines=Enterprise+AI+Solutions+%26+Consulting" alt="Tagline"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=1&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=900&height=25&lines=Transforming+enterprises+with+production-grade+AI+%C2%B7+20%2B+years+of+engineering+excellence" alt="Description"/>
+
+<br/>
+
+<!-- STATUS BADGES ROW -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Operational-00FFCC?style=flat-square&labelColor=0d1117" alt="Status"/>
-  <img src="https://img.shields.io/badge/SLA-99.99%25%20Uptime-00FFCC?style=flat-square&labelColor=0d1117" alt="SLA"/>
-  <img src="https://img.shields.io/badge/Security-Enterprise%20Grade-00FFCC?style=flat-square&labelColor=0d1117" alt="Security"/>
-  <img src="https://img.shields.io/badge/AI%20Core-v4.2-00FFCC?style=flat-square&labelColor=0d1117" alt="AI Core"/>
-  <img src="https://img.shields.io/badge/ISO-27001%20Aligned-00FFCC?style=flat-square&labelColor=0d1117" alt="ISO"/>
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Status-Operational-00FFCC?style=flat-square&labelColor=0d1117&color=0d1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/SLA-99.99%25%20Uptime-00FFCC?style=flat-square&labelColor=161b22&color=161b22" alt="SLA"/>
+  <img src="https://img.shields.io/badge/Security-Enterprise%20Grade-00FFCC?style=flat-square&labelColor=0d1117&color=0d1117" alt="Security"/>
+  <img src="https://img.shields.io/badge/AI%20Core-v4.2-00FFCC?style=flat-square&labelColor=161b22&color=161b22" alt="AI Core"/>
+  <img src="https://img.shields.io/badge/Compliance-ISO%2027001%20Aligned-00FFCC?style=flat-square&labelColor=0d1117&color=0d1117" alt="ISO"/>
+  <img src="https://img.shields.io/badge/Data-LGPD%20%7C%20GDPR%20%7C%20HIPAA-00FFCC?style=flat-square&labelColor=161b22&color=161b22" alt="Compliance"/>
 </p>
 
-<!-- PRIMARY LINKS -->
+<!-- PRIMARY ACTIONS -->
 <p>
   <a href="https://www.aix-group.ai">
-    <img src="https://img.shields.io/badge/aix--group.ai-Visit%20Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00FFCC&labelColor=0d1117&color=0d1117" alt="Website"/>
-  </a>
+    <img src="https://img.shields.io/badge/aix--group.ai-%E2%86%97%20Visit%20Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=00FFCC&labelColor=0d1117&color=161b22" alt="Website"/>
+  </a>&nbsp;
   <a href="mailto:contact@aix-group.ai">
-    <img src="https://img.shields.io/badge/contact%40aix--group.ai-Get%20In%20Touch-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0d1117&color=0d1117" alt="Email"/>
-  </a>
+    <img src="https://img.shields.io/badge/contact%40aix--group.ai-%E2%86%97%20Send%20Message-161b22?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0d1117&color=161b22" alt="Email"/>
+  </a>&nbsp;
   <a href="https://www.aix-group.ai/#contact">
-    <img src="https://img.shields.io/badge/Free%20Consultation-Schedule%20Now-00FFCC?style=for-the-badge&logo=googlecalendar&logoColor=0d1117&labelColor=00FFCC&color=00FFCC" alt="Consultation"/>
+    <img src="https://img.shields.io/badge/Free%20Consultation-%E2%86%92%20Schedule%20Now-0d1117?style=for-the-badge&labelColor=00FFCC&color=00FFCC&logoColor=0d1117" alt="Consultation"/>
   </a>
 </p>
 
 </div>
 
----
+<br/>
 
-<!-- METRICS ROW -->
+<!-- METRICS STRIP -->
 <div align="center">
 
-| &nbsp;&nbsp;20+&nbsp;&nbsp; | &nbsp;&nbsp;150+&nbsp;&nbsp; | &nbsp;&nbsp;50+&nbsp;&nbsp; | &nbsp;&nbsp;99%&nbsp;&nbsp; |
-|:---:|:---:|:---:|:---:|
-| **Years of Experience** | **Projects Delivered** | **Global Clients** | **Client Satisfaction** |
+```
+  ┌──────────────────────┬───────────────────────┬─────────────────────┬──────────────────────┐
+  │     20+ Years        │    150+ Projects      │    50+ Clients      │   99% Satisfaction   │
+  │   of Experience      │      Delivered        │     Worldwide       │        Rate          │
+  └──────────────────────┴───────────────────────┴─────────────────────┴──────────────────────┘
+```
 
 </div>
 
@@ -56,7 +68,8 @@ Our engagements span **Insurance, Energy, Fintech, and Healthcare** — industri
 <tr>
 <td width="50%" valign="top">
 
-### Generative AI Engineering
+**Generative AI Engineering**
+
 Design and deployment of production LLM pipelines. Custom model fine-tuning, RLHF alignment, and multi-modal systems built to enterprise reliability standards.
 
 `Text Generation` `Image Synthesis` `Code Generation` `Content Automation`
@@ -64,7 +77,8 @@ Design and deployment of production LLM pipelines. Custom model fine-tuning, RLH
 </td>
 <td width="50%" valign="top">
 
-### LLM Systems Integration
+**LLM Systems Integration**
+
 Full-stack integration of frontier models — GPT-4, Claude, Gemini, Llama — into existing enterprise architecture with optimized inference, latency controls, and fallback logic.
 
 `GPT-4 & Claude` `Custom Fine-tuning` `Prompt Engineering` `Model Optimization`
@@ -74,16 +88,18 @@ Full-stack integration of frontier models — GPT-4, Claude, Gemini, Llama — i
 <tr>
 <td width="50%" valign="top">
 
-### RAG & Knowledge Infrastructure
-Retrieval-Augmented Generation systems for enterprise knowledge bases. Semantic search, hybrid retrieval, and document QA with full auditability.
+**RAG & Knowledge Infrastructure**
+
+Retrieval-Augmented Generation systems for enterprise knowledge bases. Semantic search, hybrid retrieval, and document QA with full auditability and access control.
 
 `Vector Databases` `Knowledge Bases` `Semantic Search` `Document QA`
 
 </td>
 <td width="50%" valign="top">
 
-### Cloud-Native Architecture
-Multi-cloud infrastructure design on AWS, GCP, and Azure. Microservices, Kubernetes, serverless, Infrastructure as Code — built for zero-downtime deployments.
+**Cloud-Native Architecture**
+
+Multi-cloud infrastructure on AWS, GCP, and Azure. Microservices, Kubernetes, serverless, Infrastructure as Code — built for zero-downtime deployments at any scale.
 
 `AWS & GCP` `Kubernetes` `Microservices` `Infrastructure as Code`
 
@@ -92,16 +108,18 @@ Multi-cloud infrastructure design on AWS, GCP, and Azure. Microservices, Kuberne
 <tr>
 <td width="50%" valign="top">
 
-### Autonomous AI Agents
-Orchestrated agentic systems using LangChain, AutoGPT, and custom frameworks. End-to-end process automation with human-in-the-loop controls and full observability.
+**Autonomous AI Agents**
+
+Orchestrated agentic systems using LangChain, AutoGPT, and custom agent frameworks. End-to-end automation with human-in-the-loop controls and full observability.
 
 `AutoGPT Agents` `LangChain Workflows` `Process Automation` `Decision Systems`
 
 </td>
 <td width="50%" valign="top">
 
-### Data Engineering & ML Ops
-Production-grade data pipelines, feature stores, and real-time analytics infrastructure. The reliable foundation every AI/ML system requires.
+**Data Engineering & ML Ops**
+
+Production-grade data pipelines, feature stores, and real-time analytics infrastructure. The reliable foundation every AI/ML system at scale requires.
 
 `Data Pipelines` `Real-time Analytics` `Data Lakes` `ML Data Prep`
 
@@ -113,7 +131,7 @@ Production-grade data pipelines, feature stores, and real-time analytics infrast
 
 ## Proven Results
 
-> The following engagements represent live production systems delivering measurable business outcomes.
+> The following represent live production systems delivering measurable business outcomes across critical industries.
 
 <table>
 <tr>
@@ -122,7 +140,7 @@ Production-grade data pipelines, feature stores, and real-time analytics infrast
 **Insurance AI Claims Automation**
 *Global Insurance Corp — Insurance*
 
-Automated end-to-end claims processing using GPT-4 and computer vision. Replaced a 5-day manual pipeline with a sub-minute intelligent triage and approval system.
+Automated end-to-end claims processing using GPT-4 and computer vision. Replaced a 5-day manual pipeline with sub-minute intelligent triage and approval.
 
 | Metric | Result |
 |---|---|
@@ -162,7 +180,7 @@ ML-driven demand forecasting and load balancing across a distributed energy grid
 **Real-Time Fraud Detection**
 *Digital Banking Startup — Fintech*
 
-Deep learning behavioral analysis engine processing transactions in under 50ms. Deployed on GCP with Kafka streaming and Redis feature caching.
+Deep learning behavioral analysis engine processing transactions under 50ms. Deployed on GCP with Kafka streaming and Redis feature caching.
 
 | Metric | Result |
 |---|---|
@@ -181,7 +199,7 @@ Deep learning behavioral analysis engine processing transactions in under 50ms. 
 **Clinical Diagnosis Assistant**
 *Hospital Network Brazil — Healthcare*
 
-LLM-powered diagnostic assistant integrating FHIR-compliant clinical records, lab results, and medical imaging. Built with full LGPD/HIPAA data governance controls.
+LLM-powered diagnostic assistant integrating FHIR-compliant records, lab results, and imaging. Built with full LGPD/HIPAA data governance and audit trails.
 
 | Metric | Result |
 |---|---|
@@ -204,17 +222,18 @@ LLM-powered diagnostic assistant integrating FHIR-compliant clinical records, la
 
 <div align="center">
 
-**AI & Machine Learning**
+**— AI & Machine Learning —**
 
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Cloud & Infrastructure**
+**— Cloud & Infrastructure —**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -224,7 +243,7 @@ LLM-powered diagnostic assistant integrating FHIR-compliant clinical records, la
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Engineering**
+**— Engineering —**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -242,56 +261,63 @@ LLM-powered diagnostic assistant integrating FHIR-compliant clinical records, la
 
 <table>
 <tr>
-<td align="center" width="25%">
-<strong>Production-First</strong><br/>
-<sub>Every system we build is designed for production from day one — with observability, failover, and SLA controls built in.</sub>
+<td align="center" width="25%" valign="top">
+
+**Production&#8209;First**
+
+Every system is designed for production from day one — observability, failover, circuit breakers, and SLA controls built in, not bolted on.
+
 </td>
-<td align="center" width="25%">
-<strong>Security by Design</strong><br/>
-<sub>ISO 27001-aligned practices, LGPD/GDPR/HIPAA-aware data governance, and zero-trust architecture across all deployments.</sub>
+<td align="center" width="25%" valign="top">
+
+**Security by Design**
+
+ISO 27001-aligned practices. LGPD / GDPR / HIPAA-aware governance. Zero-trust architecture on every deployment.
+
 </td>
-<td align="center" width="25%">
-<strong>Measurable ROI</strong><br/>
-<sub>We define success metrics before we write a single line of code. Every engagement is tied to clear business outcomes.</sub>
+<td align="center" width="25%" valign="top">
+
+**Measurable ROI**
+
+We define KPIs before writing a single line of code. Every engagement is bound to clear, auditable business outcomes.
+
 </td>
-<td align="center" width="25%">
-<strong>Frontier Research</strong><br/>
-<sub>Continuous investment in the latest AI research ensures our clients benefit from state-of-the-art capabilities — not last year's models.</sub>
+<td align="center" width="25%" valign="top">
+
+**Frontier Research**
+
+Continuous R&D investment ensures clients run state-of-the-art capabilities. We evaluate and adopt new frontier models within weeks of release.
+
 </td>
 </tr>
 </table>
 
 ---
 
-## Engagement
+## Engagement Model
 
 <div align="center">
 
-We work with enterprises through structured engagements — from focused 4-week proof-of-concepts to multi-year strategic partnerships.
+We work with enterprises through structured engagements — from focused **4-week proof-of-concepts** to **multi-year strategic partnerships**.
 
-**All engagements begin with a complimentary technical discovery session.**
+All engagements begin with a complimentary **technical discovery session**.
+
+<br/>
 
 <a href="https://www.aix-group.ai/#contact">
-  <img src="https://img.shields.io/badge/Schedule%20Discovery%20Session-→-0d1117?style=for-the-badge&labelColor=00FFCC&color=00FFCC&logoColor=0d1117" alt="Schedule"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20Schedule%20Discovery%20Session-Book%20Now-0d1117?style=for-the-badge&labelColor=00FFCC&color=00FFCC&logoColor=0d1117" alt="Schedule"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.aix-group.ai">
-  <img src="https://img.shields.io/badge/View%20Full%20Portfolio-→-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=00FFCC" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20View%20Full%20Portfolio-Explore-00FFCC?style=for-the-badge&labelColor=161b22&color=161b22&logoColor=00FFCC" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-**contact@aix-group.ai** &nbsp;·&nbsp; **aix-group.ai**
+**contact@aix-group.ai** &nbsp;·&nbsp; **[aix-group.ai](https://www.aix-group.ai)**
 
-</div>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=1&pause=99999&color=444444&center=true&vCenter=true&repeat=false&width=900&height=20&lines=%C2%A9+2026+AIX+Group+%C2%B7+Enterprise+AI+Solutions+%26+Consulting+%C2%B7+aix-group.ai" alt="Footer"/>
 
-<!-- FOOTER BANNER -->
-<a href="https://www.aix-group.ai">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,50:0d1117,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%" alt="AIX Group Footer"/>
-</a>
-
-<div align="center">
-<sub>© 2026 AIX Group &nbsp;·&nbsp; Enterprise AI Solutions & Consulting &nbsp;·&nbsp; <a href="https://www.aix-group.ai">aix-group.ai</a></sub>
 </div>
